@@ -1,1 +1,1 @@
-# TepeKuvveti-Updates
+Tepe Kuvveti Hesaplama Güncelleme Deposu
